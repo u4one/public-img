@@ -1,2 +1,2 @@
-# public-img
-Image
+# public-imgs
+Image 图床
